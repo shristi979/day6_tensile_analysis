@@ -1,0 +1,11 @@
+# Python bytecode/cache
+__pycache__/
+*.py[cod]
+# Local virtual environment
+.venv/
+venv/
+# Spyder user-specific settings
+.spyproject/
+
+# Local secrets (never commit real credentials)
+.env
